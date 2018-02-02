@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[waiting for page to load...]]>
+    </line>
+    <line>
+      <![CDATA[Page is loaded]]>
+    </line>
+    <line>
+      <![CDATA[waiting for page to load...]]>
+    </line>
+    <line>
+      <![CDATA[Page is loaded]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="156941" started-at="2017-11-06T13:28:01Z" finished-at="2017-11-06T13:30:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="156941" started-at="2017-11-06T13:28:01Z" finished-at="2017-11-06T13:30:38Z">
+      <class name="com.jocata.star.GridAdministartion.RiskConfigurationEdit">
+        <test-method status="PASS" signature="fristlogin()[pri:0, instance:com.jocata.star.GridAdministartion.RiskConfigurationEdit@685cb137]" name="fristlogin" is-config="true" duration-ms="21674" started-at="2017-11-06T18:57:39Z" finished-at="2017-11-06T18:58:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for page to load...]]>
+            </line>
+            <line>
+              <![CDATA[Page is loaded]]>
+            </line>
+            <line>
+              <![CDATA[waiting for page to load...]]>
+            </line>
+            <line>
+              <![CDATA[Page is loaded]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fristlogin -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jocata.star.GridAdministartion.RiskConfigurationEdit@685cb137]" name="setUp" is-config="true" duration-ms="1" started-at="2017-11-06T18:58:01Z" finished-at="2017-11-06T18:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickriskconfigrationedit()[pri:45, instance:com.jocata.star.GridAdministartion.RiskConfigurationEdit@685cb137]" name="clickriskconfigrationedit" duration-ms="156481" started-at="2017-11-06T18:58:01Z" finished-at="2017-11-06T19:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickriskconfigrationedit -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult, org.testng.ITestContext)[pri:0, instance:com.jocata.star.GridAdministartion.RiskConfigurationEdit@685cb137]" name="getResult" is-config="true" duration-ms="372" started-at="2017-11-06T19:00:37Z" finished-at="2017-11-06T19:00:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickriskconfigrationedit status=SUCCESS method=RiskConfigurationEdit.clickriskconfigrationedit()[pri:45, instance:com.jocata.star.GridAdministartion.RiskConfigurationEdit@685cb137] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@141e5bef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.jocata.star.GridAdministartion.RiskConfigurationEdit@685cb137]" name="endReport" is-config="true" duration-ms="1" started-at="2017-11-06T19:00:38Z" finished-at="2017-11-06T19:00:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.jocata.star.GridAdministartion.RiskConfigurationEdit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
